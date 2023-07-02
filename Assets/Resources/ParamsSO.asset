@@ -16,5 +16,5 @@ MonoBehaviour:
   initBallCount: 40
   scorePoint: 100
   ballDistance: 1.5
-  bombRate: 4.5
+  bombRate: 4
   bombRange: 1.52
